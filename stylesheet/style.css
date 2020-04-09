@@ -150,7 +150,6 @@ aside {
 @media only screen and (max-width: 360px) {
     html {
         font-size: 0.7em;
-        color: blue;
     }
 
     header {
@@ -204,7 +203,6 @@ aside {
 @media only screen and (min-width: 360px) and (max-width: 480px) {
     html {
         font-size: 0.7em;
-        color: red;
     }
 
     h1 {
@@ -229,7 +227,6 @@ aside {
 @media only screen and (min-width: 480px) and (max-width: 600px) {
     html {
         font-size: 0.9em;
-        color: green;
     }
 
     #navbar {
@@ -264,7 +261,6 @@ aside {
 @media only screen and (min-width: 600px) and (max-width: 900px) {
     html {
         font-size: 0.9em;
-        color: purple;
     }
 
     #navbar {
